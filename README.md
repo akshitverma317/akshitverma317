@@ -7,7 +7,7 @@ I'm passionate about building robust data pipelines, automating data workflows, 
 
 ## 🔥 Skills
 - Data Engineering (ETL, Airflow, Spark, SQL)
-- Cloud Platforms (AWS, GCP)
+- Cloud Platforms (AWS)
 - Python, Pandas, Hadoop
 - Automation and Data Visualization
 
