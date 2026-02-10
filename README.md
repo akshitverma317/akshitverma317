@@ -17,5 +17,5 @@ I'm passionate about building robust data pipelines, automating data workflows, 
 - [Check out my best repos here!](#)
 
 ## 📫 Connect
-- [LinkedIn](https://linkedin.com/in/your-link)
-- Email: your-email@example.com
+- [LinkedIn](https://www.linkedin.com/in/akshit-verma-083661222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: akshitverma2100@gmail.com
