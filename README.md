@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Akshit Verma 👋
 
-<!--
-**akshitverma317/akshitverma317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineer | Python | SQL | ETL | Big Data | Cloud**
 
-Here are some ideas to get you started:
+Welcome to my profile!  
+I'm passionate about building robust data pipelines, automating data workflows, and working on large-scale analytics solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- Data Engineering (ETL, Airflow, Spark, SQL)
+- Cloud Platforms (AWS, GCP)
+- Python, Pandas, Hadoop
+- Automation and Data Visualization
+
+## 🌟 Featured Projects
+- **Real-time Data Pipeline:** Kafka + Spark Streaming
+- **ETL Automation:** Airflow + Cloud Storage
+- [Check out my best repos here!](#)
+
+## 📫 Connect
+- [LinkedIn](https://linkedin.com/in/your-link)
+- Email: your-email@example.com
